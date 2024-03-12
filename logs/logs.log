@@ -1,0 +1,887 @@
+{
+  "instant" : {
+    "epochSecond" : 1709395819,
+    "nanoOfSecond" : 699514700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.groupeisi.KeycloakAppApplication",
+  "message" : "Starting KeycloakAppApplication using Java 17.0.10 with PID 12784 (C:\\Users\\moham\\eclipse-workspace\\M2GL\\exam-jee-devops\\JEE\\keycloak-app\\target\\classes started by moham in C:\\Users\\moham\\eclipse-workspace\\M2GL\\exam-jee-devops\\JEE\\keycloak-app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395819,
+    "nanoOfSecond" : 566089200
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 26,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395819,
+    "nanoOfSecond" : 842959800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.groupeisi.KeycloakAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395819,
+    "nanoOfSecond" : 920219600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395819,
+    "nanoOfSecond" : 923409300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395825,
+    "nanoOfSecond" : 813893600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8080 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395825,
+    "nanoOfSecond" : 835188700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.AprLifecycleListener",
+  "message" : "An older version [1.2.35] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.5]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395825,
+    "nanoOfSecond" : 837555000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.AprLifecycleListener",
+  "message" : "Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395825,
+    "nanoOfSecond" : 854229000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.AprLifecycleListener",
+  "message" : "OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395825,
+    "nanoOfSecond" : 902235600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395825,
+    "nanoOfSecond" : 914710200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395825,
+    "nanoOfSecond" : 916308800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.19]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395826,
+    "nanoOfSecond" : 296657300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395826,
+    "nanoOfSecond" : 299705900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 6373 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395826,
+    "nanoOfSecond" : 715063600
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext",
+  "message" : "Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'keycloakInstance': Injection of autowired dependencies failed",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395826,
+    "nanoOfSecond" : 729273300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Stopping service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395826,
+    "nanoOfSecond" : 807771400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger",
+  "message" : "\r\n\r\nError starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395826,
+    "nanoOfSecond" : 932774500
+  },
+  "thread" : "restartedMain",
+  "level" : "ERROR",
+  "loggerName" : "org.springframework.boot.SpringApplication",
+  "message" : "Application run failed",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "Error creating bean with name 'keycloakInstance': Injection of autowired dependencies failed",
+    "message" : "Error creating bean with name 'keycloakInstance': Injection of autowired dependencies failed",
+    "name" : "org.springframework.beans.factory.BeanCreationException",
+    "cause" : {
+      "commonElementCount" : 22,
+      "localizedMessage" : "Could not resolve placeholder 'name' in value \"${name}\"",
+      "message" : "Could not resolve placeholder 'name' in value \"${name}\"",
+      "name" : "java.lang.IllegalArgumentException",
+      "extendedStackTrace" : [ {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.util.PropertyPlaceholderHelper",
+        "method" : "parseStringValue",
+        "file" : "PropertyPlaceholderHelper.java",
+        "line" : 180,
+        "exact" : false,
+        "location" : "spring-core-6.1.4.jar",
+        "version" : "6.1.4"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.util.PropertyPlaceholderHelper",
+        "method" : "replacePlaceholders",
+        "file" : "PropertyPlaceholderHelper.java",
+        "line" : 126,
+        "exact" : false,
+        "location" : "spring-core-6.1.4.jar",
+        "version" : "6.1.4"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.core.env.AbstractPropertyResolver",
+        "method" : "doResolvePlaceholders",
+        "file" : "AbstractPropertyResolver.java",
+        "line" : 239,
+        "exact" : false,
+        "location" : "spring-core-6.1.4.jar",
+        "version" : "6.1.4"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.core.env.AbstractPropertyResolver",
+        "method" : "resolveRequiredPlaceholders",
+        "file" : "AbstractPropertyResolver.java",
+        "line" : 210,
+        "exact" : false,
+        "location" : "spring-core-6.1.4.jar",
+        "version" : "6.1.4"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.context.support.PropertySourcesPlaceholderConfigurer",
+        "method" : "lambda$processProperties$0",
+        "file" : "PropertySourcesPlaceholderConfigurer.java",
+        "line" : 200,
+        "exact" : false,
+        "location" : "spring-context-6.1.4.jar",
+        "version" : "6.1.4"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+        "method" : "resolveEmbeddedValue",
+        "file" : "AbstractBeanFactory.java",
+        "line" : 921,
+        "exact" : false,
+        "location" : "spring-beans-6.1.4.jar",
+        "version" : "6.1.4"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.support.DefaultListableBeanFactory",
+        "method" : "doResolveDependency",
+        "file" : "DefaultListableBeanFactory.java",
+        "line" : 1374,
+        "exact" : false,
+        "location" : "spring-beans-6.1.4.jar",
+        "version" : "6.1.4"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.support.DefaultListableBeanFactory",
+        "method" : "resolveDependency",
+        "file" : "DefaultListableBeanFactory.java",
+        "line" : 1353,
+        "exact" : false,
+        "location" : "spring-beans-6.1.4.jar",
+        "version" : "6.1.4"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement",
+        "method" : "resolveFieldValue",
+        "file" : "AutowiredAnnotationBeanPostProcessor.java",
+        "line" : 784,
+        "exact" : false,
+        "location" : "spring-beans-6.1.4.jar",
+        "version" : "6.1.4"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement",
+        "method" : "inject",
+        "file" : "AutowiredAnnotationBeanPostProcessor.java",
+        "line" : 767,
+        "exact" : false,
+        "location" : "spring-beans-6.1.4.jar",
+        "version" : "6.1.4"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.annotation.InjectionMetadata",
+        "method" : "inject",
+        "file" : "InjectionMetadata.java",
+        "line" : 145,
+        "exact" : false,
+        "location" : "spring-beans-6.1.4.jar",
+        "version" : "6.1.4"
+      }, {
+        "classLoaderName" : "app",
+        "class" : "org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor",
+        "method" : "postProcessProperties",
+        "file" : "AutowiredAnnotationBeanPostProcessor.java",
+        "line" : 508,
+        "exact" : false,
+        "location" : "spring-beans-6.1.4.jar",
+        "version" : "6.1.4"
+      } ]
+    },
+    "extendedStackTrace" : [ {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor",
+      "method" : "postProcessProperties",
+      "file" : "AutowiredAnnotationBeanPostProcessor.java",
+      "line" : 514,
+      "exact" : false,
+      "location" : "spring-beans-6.1.4.jar",
+      "version" : "6.1.4"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "populateBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 1419,
+      "exact" : false,
+      "location" : "spring-beans-6.1.4.jar",
+      "version" : "6.1.4"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "doCreateBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 599,
+      "exact" : false,
+      "location" : "spring-beans-6.1.4.jar",
+      "version" : "6.1.4"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "createBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 522,
+      "exact" : false,
+      "location" : "spring-beans-6.1.4.jar",
+      "version" : "6.1.4"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "lambda$doGetBean$0",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 325,
+      "exact" : false,
+      "location" : "spring-beans-6.1.4.jar",
+      "version" : "6.1.4"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.DefaultSingletonBeanRegistry",
+      "method" : "getSingleton",
+      "file" : "DefaultSingletonBeanRegistry.java",
+      "line" : 234,
+      "exact" : false,
+      "location" : "spring-beans-6.1.4.jar",
+      "version" : "6.1.4"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "doGetBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 323,
+      "exact" : false,
+      "location" : "spring-beans-6.1.4.jar",
+      "version" : "6.1.4"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "getBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 199,
+      "exact" : false,
+      "location" : "spring-beans-6.1.4.jar",
+      "version" : "6.1.4"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.beans.factory.support.DefaultListableBeanFactory",
+      "method" : "preInstantiateSingletons",
+      "file" : "DefaultListableBeanFactory.java",
+      "line" : 975,
+      "exact" : false,
+      "location" : "spring-beans-6.1.4.jar",
+      "version" : "6.1.4"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "finishBeanFactoryInitialization",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 959,
+      "exact" : false,
+      "location" : "spring-context-6.1.4.jar",
+      "version" : "6.1.4"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "refresh",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 624,
+      "exact" : false,
+      "location" : "spring-context-6.1.4.jar",
+      "version" : "6.1.4"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+      "method" : "refresh",
+      "file" : "ServletWebServerApplicationContext.java",
+      "line" : 146,
+      "exact" : false,
+      "location" : "spring-boot-3.2.3.jar",
+      "version" : "3.2.3"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "refresh",
+      "file" : "SpringApplication.java",
+      "line" : 754,
+      "exact" : true,
+      "location" : "spring-boot-3.2.3.jar",
+      "version" : "3.2.3"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "refreshContext",
+      "file" : "SpringApplication.java",
+      "line" : 456,
+      "exact" : true,
+      "location" : "spring-boot-3.2.3.jar",
+      "version" : "3.2.3"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 334,
+      "exact" : true,
+      "location" : "spring-boot-3.2.3.jar",
+      "version" : "3.2.3"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 1354,
+      "exact" : true,
+      "location" : "spring-boot-3.2.3.jar",
+      "version" : "3.2.3"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 1343,
+      "exact" : true,
+      "location" : "spring-boot-3.2.3.jar",
+      "version" : "3.2.3"
+    }, {
+      "class" : "com.groupeisi.KeycloakAppApplication",
+      "method" : "main",
+      "file" : "KeycloakAppApplication.java",
+      "line" : 10,
+      "exact" : true,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.10",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke0",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : -2,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.10",
+      "class" : "jdk.internal.reflect.NativeMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "NativeMethodAccessorImpl.java",
+      "line" : 77,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.10",
+      "class" : "jdk.internal.reflect.DelegatingMethodAccessorImpl",
+      "method" : "invoke",
+      "file" : "DelegatingMethodAccessorImpl.java",
+      "line" : 43,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "module" : "java.base",
+      "moduleVersion" : "17.0.10",
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 568,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "classLoaderName" : "app",
+      "class" : "org.springframework.boot.devtools.restart.RestartLauncher",
+      "method" : "run",
+      "file" : "RestartLauncher.java",
+      "line" : 50,
+      "exact" : true,
+      "location" : "spring-boot-devtools-3.2.3.jar",
+      "version" : "3.2.3"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 23,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395968,
+    "nanoOfSecond" : 967178900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.groupeisi.KeycloakAppApplication",
+  "message" : "Starting KeycloakAppApplication using Java 17.0.10 with PID 10812 (C:\\Users\\moham\\eclipse-workspace\\M2GL\\exam-jee-devops\\JEE\\keycloak-app\\target\\classes started by moham in C:\\Users\\moham\\eclipse-workspace\\M2GL\\exam-jee-devops\\JEE\\keycloak-app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395968,
+    "nanoOfSecond" : 894306500
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 29,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395969,
+    "nanoOfSecond" : 95406900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.groupeisi.KeycloakAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395969,
+    "nanoOfSecond" : 185103100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395969,
+    "nanoOfSecond" : 187161400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395973,
+    "nanoOfSecond" : 912956500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8080 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395973,
+    "nanoOfSecond" : 932666500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.AprLifecycleListener",
+  "message" : "An older version [1.2.35] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [2.0.5]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395973,
+    "nanoOfSecond" : 935251700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.AprLifecycleListener",
+  "message" : "Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395973,
+    "nanoOfSecond" : 946356000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.AprLifecycleListener",
+  "message" : "OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395973,
+    "nanoOfSecond" : 980306400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395973,
+    "nanoOfSecond" : 990895200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395973,
+    "nanoOfSecond" : 992904800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.19]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395974,
+    "nanoOfSecond" : 284030800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395974,
+    "nanoOfSecond" : 285027800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 5096 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395976,
+    "nanoOfSecond" : 283728800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.security.web.DefaultSecurityFilterChain",
+  "message" : "Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@59f4ae6a, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@493df947, org.springframework.security.web.context.SecurityContextHolderFilter@32886fad, org.springframework.security.web.header.HeaderWriterFilter@5aa7d5d6, org.springframework.web.filter.CorsFilter@56833cc5, org.springframework.security.web.authentication.logout.LogoutFilter@748df1cd, org.springframework.security.oauth2.server.resource.web.authentication.BearerTokenAuthenticationFilter@66cf2dc8, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7e22f787, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1523b855, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@48d2fca6, org.springframework.security.web.session.SessionManagementFilter@67028da0, org.springframework.security.web.access.ExceptionTranslationFilter@8c365ef, org.springframework.security.web.access.intercept.AuthorizationFilter@1a18c684]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395976,
+    "nanoOfSecond" : 926256700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395976,
+    "nanoOfSecond" : 966891600
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8080\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395977,
+    "nanoOfSecond" : 60448400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8080 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709395977,
+    "nanoOfSecond" : 110530200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.groupeisi.KeycloakAppApplication",
+  "message" : "Started KeycloakAppApplication in 9.111 seconds (process running for 12.777)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 25,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
